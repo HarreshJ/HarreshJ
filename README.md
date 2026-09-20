@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @HarreshJ
-- 👀 I’m interested in coding with Python and HTML/CSS/JS to make cool side projects that are responsive - like tic tac toe but I am also an avid player and follower of cricket
-- 🌱 I’m currently learning python at school as part of the computer science A level course
-- 📫 How to reach me: https://www.linkedin.com/in/harresh-jayanthan
